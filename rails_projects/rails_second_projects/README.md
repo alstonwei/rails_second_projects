@@ -1,4 +1,14 @@
+
+
 == README
+
+$ git checkout -b topic-branch
+$ <really screw up the branch>
+$ git add .
+$ git commit -a -m "Major screw up"
+$ git checkout master
+$ git branch -D topic-branch
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
