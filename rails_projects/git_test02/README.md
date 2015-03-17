@@ -1,4 +1,9 @@
 == README
+this is git_test02 project 
+
+just a test
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
